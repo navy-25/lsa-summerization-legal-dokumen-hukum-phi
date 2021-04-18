@@ -32,10 +32,10 @@ deskripsi folder
    -  perbagian : berisi tentang dokumen hasil manual rangkuman pakar secara perbagian dokumen
 
 about me 
-Nama        : Muhammad Nafi' Maula Hakim
-Tgl. Lahir  : 25, Januari 1999
-NIM         : 201710370311032
-Fak/Jur     : Teknik/Informatika (2017/Data Sains)
-Kampus      : Universitas Muhammadiyah Malang
-Instagram   : @n_vi25
-Whatsapp    : 0821-3252-1665
+- Nama        : Muhammad Nafi' Maula Hakim
+- Tgl. Lahir  : 25, Januari 1999
+- NIM         : 201710370311032
+- Fak/Jur     : Teknik/Informatika (2017/Data Sains)
+- Kampus      : Universitas Muhammadiyah Malang
+- Instagram   : @n_vi25
+- Whatsapp    : 0821-3252-1665
