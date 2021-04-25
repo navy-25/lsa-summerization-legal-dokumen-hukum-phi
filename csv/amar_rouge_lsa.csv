@@ -1,4 +1,4 @@
-Rang.Sistem,Rang.Pakar,Preccsion,Recall,F-Measure
+Rang.Sistem,Rang.Pakar,Preccsion,Recall,Rouge_Score
 menolak permohonan kasasi dari pemohon kasasi pt nusa halmahera mineral tersebut;,"menolak permohonan kasasi dari pemohon kasasi pt. nusa halmahera mineral tersebut; menghukum pemohon kasasi untuk membayar biaya perkara dalam tingkat ditetapkan sebesar rp. 500.000,00 (lima ratus ribu rupiah).",0.367,1.000,0.537
 menolak permohonan kasasi dari pemohon kasasi pt bina san prima tersebut;,menolak permohonan kasasi dari pemohon kasasi pt bina san prima tersebut; membebankan biaya perkara kepada negara;,0.688,1.000,0.815
 menolak permohonan kasasi dari pemohon kasasi heara halawa,menolak permohonan kasasi dari pemohon kasasi heara halawa tersebut; membebankan biaya perkara kepada negara.,0.571,1.000,0.727

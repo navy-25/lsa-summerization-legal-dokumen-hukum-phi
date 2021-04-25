@@ -1,4 +1,4 @@
-Rang.Sistem,Rang.Pakar,Preccsion,Recall,F-Measure
+Rang.Sistem,Rang.Pakar,Preccsion,Recall,Rouge_Score
 nomor 851 k/pdt.sus-phi/2020,nomor 851 k/pdt.sus-phi/2020,1.000,1.000,1.000
 nomor 1112 k/pdt.sus-phi/2020,nomor 1112 k/pdt.sus-phi/2020,1.000,1.000,1.000
 nomor 1182 k/pdt.sus-phi/2020,nomor 1182 k/pdt.sus-phi/2020,1.000,1.000,1.000
